@@ -1,3 +1,4 @@
+// Used Jquery for animation of heading
 $(document).ready(function () {
     
     $('.text').textillate({
