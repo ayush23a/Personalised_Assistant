@@ -1,0 +1,1 @@
+Hi there !! This is David, a personalised voice assistant which can answer to the most common questions of yours. This bot has its front end made on HTML , CSS and Javascript whereas the backend is completeley designed on python.
